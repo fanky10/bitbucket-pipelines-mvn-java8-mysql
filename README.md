@@ -27,7 +27,7 @@ pipelines:
 
 ## Debian _Stretch_
 
-A Docker image based on [Debian _Stretch_](https://www.debian.org/releases/stretch/), PHP 7, MySQL 5.6, Node.js 6.x and Ruby 2.3 is available under `stretch` branch (and with Docker tag `stretch`).
+A Docker image based on [Debian _Stretch_](https://www.debian.org/releases/stretch/), PHP 7, MySQL 5.6 available under `stretch` branch (and with Docker tag `stretch`).
 
 ## Changelog
 
