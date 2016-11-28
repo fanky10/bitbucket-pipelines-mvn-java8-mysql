@@ -1,6 +1,6 @@
 # bitbucket-pipelines-mvn-java8-mysql
 
-[Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) [Docker](https://www.docker.com/) image based on [Debian _Jessie_](https://www.debian.org/releases/jessie/) with [JAVA](https://www.java.com/en/)/[MySQL](https://www.mysql.com) (and more !)
+[Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) [Docker](https://www.docker.com/) image based on [Debian _Jessie_](https://www.debian.org/releases/jessie/) with [JAVA](https://www.java.com/en/)/[MySQL](https://www.mysql.com)
 
 More help in Bitbucket's [Confluence](https://confluence.atlassian.com/bitbucket/bitbucket-pipelines-beta-792496469.html)
 
